@@ -59,3 +59,33 @@ Simulates real-world enterprise project approval processing to reduce manual coo
 - Business process automation
 - Workflow orchestration
 - Microsoft 365 integration
+
+---
+
+## 📷 Workflow Screenshots
+
+### 🔹 Workflow Overview
+Shows the complete flow structure including trigger, approval step, conditional branching, and notification handling.
+
+![Workflow Overview](workflow-overview.png)
+
+---
+
+### 🔹 Approval Configuration
+Demonstrates configured approval type, assigned approver, and dynamic field mapping.
+
+![Approval Configuration](approval-configuration.png)
+
+---
+
+### 🔹 Conditional Logic
+Outcome-based branching using approval response evaluation.
+
+![Condition Logic](condition-logic.png)
+
+---
+
+### 🔹 Successful Execution
+Proof of successful end-to-end workflow execution.
+
+![Successful Run](successful-run.png)
